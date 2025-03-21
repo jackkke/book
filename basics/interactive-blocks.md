@@ -36,7 +36,5 @@ Expandable blocks are helpful in condensing what could otherwise be a lengthy pa
 
 ### Embedded content
 
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
 GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
 
